@@ -4,8 +4,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="i6bxY98KnKk5_DNNkA-L-1" value="收集背景信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="350" width="120" height="60" as="geometry" />
+        <mxCell id="i6bxY98KnKk5_DNNkA-L-1" value="收集背景信息" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=楷体;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i6bxY98KnKk5_DNNkA-L-2" value="微塑料来源" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=楷体;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="260" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i6bxY98KnKk5_DNNkA-L-3" value="除草剂用量" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=楷体;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="430" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i6bxY98KnKk5_DNNkA-L-4" value="采样" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=楷体;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="80" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
